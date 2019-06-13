@@ -1,0 +1,1 @@
+To run binpack navigate to the folder with the makefile and binpack.cpp then type make. Once there is a file of the apporpriate format named 'bin.txt' in the folder type binpack to run the program.

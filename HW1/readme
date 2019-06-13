@@ -1,0 +1,4 @@
+1. For insertSort program navigate to /InsertSort and type make then insertsort.
+2. For mergeSort program navigate to /MergeSort and type make then mergesort.
+3. For insertSort runtime program navigate to /runtime/Insert and type make then insertTime.
+4. For mergeSort runtime program navigate to /runtime/Merge and type make then mergeTime.

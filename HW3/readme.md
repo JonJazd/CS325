@@ -1,0 +1,1 @@
+to run shopping type make then type shopping with a file named shopping.txt in the same folder.

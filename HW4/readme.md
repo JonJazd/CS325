@@ -1,0 +1,1 @@
+To run the act program type make then type act while a file named act.txt is presents

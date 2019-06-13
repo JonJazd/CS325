@@ -1,0 +1,1 @@
+To make the wrestler application navigate to the folder and type make. The program will prompt you to type in the name of the file with the wrestlers.
